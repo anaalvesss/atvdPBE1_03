@@ -23,5 +23,3 @@ let funcionarios = [
 ];
 
 module.exports = funcionarios;
-
-module.exports = funcionarios;
