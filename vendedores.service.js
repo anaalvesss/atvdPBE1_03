@@ -33,7 +33,7 @@ const excluir = (indice) => {
     funcionarios.splice(indice, 1);
 };
 
-cadastrar(0, "Beatriz Alves", 2400, 0.5);
+cadastrar(0, "Beatriz Alves", 2400, 0.15);
 listar();
 buscar("bea");
 excluir(0);
